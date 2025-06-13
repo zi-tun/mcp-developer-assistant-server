@@ -1,0 +1,12 @@
+[project]
+name = "mcp-jira-agent"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.9.4",
+    "fastmcp",
+    "requests",
+    "pydantic",
+    "jira",
+]
