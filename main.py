@@ -1,8 +1,7 @@
 import argparse
 from server.server import mcp
 
-from server.tools import jira_tools, prompt_tools
-from agent import controller_tools
+from server.tools import jira_tools
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
