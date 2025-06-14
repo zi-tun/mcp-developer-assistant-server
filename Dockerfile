@@ -53,4 +53,7 @@ ENV PYTHONPATH="/app"
 EXPOSE 8080
 
 # Run your MCP server main module
+# CMD ["python", "main.py"]
+
+# Run MCP server in HTTP mode
 CMD ["python", "main.py"]
