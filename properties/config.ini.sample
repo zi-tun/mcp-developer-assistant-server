@@ -1,0 +1,14 @@
+# Sample OPENAI and JIRA configuration file
+# Copy this file and rename it to config.ini, then fill in your actual credentials
+
+
+[OPENAI]
+client_id = client_id
+client_secret = client_secret
+appKey = appKey
+grant_type = client_credentials
+token_url = https://id.cisco.com/oauth2/default/v1/token
+
+[JIRA]
+url = https://cisco-jira.atlassian.net
+
