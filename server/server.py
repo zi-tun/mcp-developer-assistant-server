@@ -1,4 +1,4 @@
 from fastmcp import FastMCP
 
 
-mcp = FastMCP()
+mcp = FastMCP("Developer assistant MCP tools")
