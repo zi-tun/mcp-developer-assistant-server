@@ -22,7 +22,7 @@ source .venv/bin/activate
 
 ---
 ## Getting Jira API Credentials
-You will need to create Jira API token at [https://id.atlassian.com/manage-profile/security/api-tokens](http://localhost:8080).
+You will need to create Jira API token at [https://id.atlassian.com/manage-profile/security/api-tokens](https://id.atlassian.com/manage-profile/security/api-tokens).
 
 ---
 ## 🛠️ Create VSCode MCP Configuration
