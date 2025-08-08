@@ -1,7 +1,9 @@
 import argparse
 from server.server import mcp
 
-from server.tools import jira_tools
+# Import tools to register them with the MCP server
+from server.tools import emoji_tools
+# from server.tools import jira_tools
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
