@@ -1,0 +1,7 @@
+# Core dependencies for MCP JIRA Agent
+# Based on pyproject.toml dependencies
+mcp[cli]>=1.9.4
+fastmcp
+requests
+pydantic
+jira
